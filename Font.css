@@ -9,4 +9,5 @@
 
 *, ::placeholder, body, button, input, select, textarea {
   font-family: "Share Tech Mono", sans-serif !important;
+  font-size: 24px;
 } 
