@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 
 :root {
-  --font-primary: "Luckiest Guy", sans-serif;
-  --font-display: "Luckiest Guy", sans-serif;
-  --font-headline: "Luckiest Guy", sans-serif;
+  --font-primary: "Share Tech Mono", sans-serif;
+  --font-display: "Share Tech Mono", sans-serif;
+  --font-headline: "Share Tech Mono", sans-serif;
   --font-code: monospace;
 }
 
 *, ::placeholder, body, button, input, select, textarea {
-  font-family: "Luckiest Guy", sans-serif !important;
+  font-family: "Share Tech Mono", sans-serif !important;
 } 
