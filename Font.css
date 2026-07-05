@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+
+:root {
+  --font-primary: "Luckiest Guy", sans-serif;
+  --font-display: "Luckiest Guy", sans-serif;
+  --font-headline: "Luckiest Guy", sans-serif;
+  --font-code: monospace;
+}
+
+*, ::placeholder, body, button, input, select, textarea {
+  font-family: "Luckiest Guy", sans-serif !important;
+} 
